@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goraieb
 - 👀 I’m interested in how organizations learn and evolve.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Data Analysis with SQL and Python.
 - 💞️ I’m looking to collaborate on small projects for organizations that are changing the world for the better.
 - 📫 How to reach me: email me at gui.goraieb@gmail.com
 
