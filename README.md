@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @goraieb
-- 👀 I’m interested in how organizations learn and evolve.
-- 🌱 I’m currently learning Data Analysis with SQL and Python.
-- 💞️ I’m looking to collaborate on small projects for organizations that are changing the world for the better.
-- 📫 How to reach me: email me at gui.goraieb@gmail.com
+Hi, I'm *Guilherme Goraieb*
 
-<!---
-goraieb/goraieb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently I work as Head of Finance at a PE-backed field services company in the US. Naval Engineer turned finance operator. I build the tools I need instead of buying them.
+
+## What I'm working on
+
+- **ERP for consultants services** — building an internal ERP for my operations, designed to eventually ship as SaaS for small-sized profesisonal services companies
+- **Finance automation** — eliminating manual work across AP, AR, reconciliation, and reporting using code + AI
+- **CFO-as-a-service** — consulting for Brazilian startups on financial modeling, FP&A, and fundraising strategy
+
+## Background
+
+- Naval Engineering — Escola Politécnica da USP
+- MBA in Finance — Insper
+- Instructor at Business Training Company (financial modeling, corporate finance, Excel) since 2014
+
+## Stack
+
+`Python` · `JavaScript` · `React` · `SQL` · `Excel/VBA` · `QuickBooks API` · `Claude Code`
+
+## Find me
+
+- [LinkedIn](https://linkedin.com/in/guilhermegoraieb)
+- [Content on finance, career & AI](https://linkedin.com/in/guilhermegoraieb)
